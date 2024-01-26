@@ -1,4 +1,4 @@
-### Project Title: College Students' Sleep Patterns Analysis
+# Project Title: College Students' Sleep Patterns Analysis
 ## Overview
 This project aims to analyze the sleep patterns of college students using a dataset comprising information from 253 students. The dataset covers various variables such as gender, class year, sleep preferences, academic metrics, mental health scores, happiness, alcohol use, bedtime, rise time, and sleep duration on weekdays and weekends. The dataset also records instances of all-nighters, providing a comprehensive overview of college students' sleep, lifestyle choices, and mental well-being.
 
@@ -17,7 +17,7 @@ Methodology
 The analysis is conducted using the R programming language. Statistical techniques, including t-statistics, confidence intervals, and p-values, are employed to derive meaningful insights. Visualization is facilitated through ggplot, providing clear representations of the data.
 
 ## Summary of Findings
-# The analysis reveals several insights into college students' sleep patterns:
+### The analysis reveals several insights into college students' sleep patterns:
 
 Gender differences in GPA were not statistically significant, with a slight variation favoring female students.
 Early classes significantly impact class attendance, highlighting the importance of scheduling considerations.
